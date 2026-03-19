@@ -1,48 +1,54 @@
-# 👋 Welcome to Trial Studios
+<h1 align="center">🚀 Trial Studios</h1>
 
-🚀 Building premium, high-quality web experiences
-💼 Focused on performance, design, and real-world business solutions
+<p align="center">
+  Building premium, high-quality web experiences
+</p>
 
 ---
 
-## 🔥 Current Focus
+## 💼 About
+
+I’m a developer focused on crafting clean, modern, and performance-driven web applications.
+
+Currently building:
 
 * 📅 Smart Booking System
 * 🧵 Premium Crochet Store
-* 🌐 Modern Web Interfaces
+* 🌐 Elegant Web Interfaces
 
 ---
 
-## 🛠️ Skills
+## ⚡ Tech Stack
 
-* HTML, CSS, JavaScript
-* UI/UX Design
-* Git & GitHub
+<p>
+  <img src="https://img.shields.io/badge/HTML-orange" />
+  <img src="https://img.shields.io/badge/CSS-blue" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow" />
+  <img src="https://img.shields.io/badge/Git-black" />
+</p>
+
+---
+
+## 🔥 Featured Projects
+
+* 📅 Booking System (In Progress)
+* 🧵 Crochet Haven (UI + Store Experience)
+* 🌐 Portfolio Website
 
 ---
 
 ## 🎯 Philosophy
 
-Quality over quantity.
+> Quality over quantity.
+
+---
+
+## 📊 Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=trial-studios\&show_icons=true)
 
 ---
 
 ## 📫 Contact
 
-(Coming soon)
-
-
-<!--
-**trial-studios/trial-studios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Coming soon...
