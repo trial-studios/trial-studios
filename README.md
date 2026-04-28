@@ -49,6 +49,12 @@ Currently building:
 
 ---
 
+## 🔴 Live Demos
+
+- https://trial-studios.github.io/trial-aurora-demo/
+- https://trial-studios.github.io/
+- https://trial-studios.github.io/crochet-haven/ (Still under development. Some of the features may not work)
+
 ## 📫 Contact
 
 Coming soon...
