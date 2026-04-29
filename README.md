@@ -6,15 +6,11 @@
 
 ---
 
-## 💼 About
+## About
 
-I’m a developer focused on crafting clean, modern, and performance-driven web applications.
+Hi, I’m Prithvi — a frontend developer focused on creating clean, modern, and performance-driven web applications.
 
-Currently building:
-
-* 📅 Smart Booking System
-* 🧵 Premium Crochet Store
-* 🌐 Elegant Web Interfaces
+I specialize in crafting visually appealing interfaces with strong attention to user experience and structure.
 
 ---
 
