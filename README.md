@@ -53,4 +53,4 @@ I specialize in crafting visually appealing interfaces with strong attention to 
 
 ## 📫 Contact
 
-Coming soon...
+- trialstudios.manager@gmail.com
