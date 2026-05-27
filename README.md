@@ -58,4 +58,5 @@ I specialize in crafting visually appealing interfaces with strong attention to 
 
 ## 📫 Contact
 
+- trialwebsiteofficial@gmail.com
 - trialstudios.manager@gmail.com
