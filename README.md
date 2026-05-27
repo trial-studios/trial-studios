@@ -17,12 +17,15 @@ I specialize in crafting visually appealing interfaces with strong attention to 
 ## ⚡ Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/HTML-orange" />
-  <img src="https://img.shields.io/badge/CSS-blue" />
-  <img src="https://img.shields.io/badge/JavaScript-yellow" />
-  <img src="https://img.shields.io/badge/Git-black" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
 </p>
-
 ---
 
 ## 🔥 Featured Projects
