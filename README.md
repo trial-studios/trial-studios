@@ -26,6 +26,7 @@ I specialize in crafting visually appealing interfaces with strong attention to 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
 </p>
+
 ---
 
 ## 🔥 Featured Projects
