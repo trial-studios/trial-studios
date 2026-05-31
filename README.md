@@ -57,10 +57,6 @@ Modern e-commerce UI showcase focused on product presentation and user experienc
 
 Experimental landing page and visual effects showcase.
 
-### 🏢 Trial Studios Website
-
-Official website for Trial Studios featuring backend integration and ongoing modernization.
-
 ---
 
 ## 🎯 Philosophy
